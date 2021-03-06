@@ -8,7 +8,7 @@
 
 <script>
     import 'bootstrap/dist/css/bootstrap.min.css';
-    import loginView from './components/login/loginView';
+    import loginView from './components/loginView';
     // import DataService from './services/data-service';
     // import PipeService from './services/pipe-service';
 
@@ -41,4 +41,3 @@
 <style scoped>
 
 </style>
-

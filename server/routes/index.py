@@ -18,7 +18,7 @@ from math import sqrt
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return 'get your request!'
 
 
 @app.route("/test", methods=['POST','GET'])
